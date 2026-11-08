@@ -1,0 +1,11 @@
+name: angel_brush_sendbox_fix
+display_name: 画笔发送修复
+desc: 让「天使的画笔」在沙箱模式下也能发送生成的图片；运行期放宽发送白名单，不修改 AstrBot 源码。
+short_desc: 沙箱模式下也能发画笔的图
+version: 1.0.0
+author: iicemeta
+category: 工具
+tags:
+  - 沙箱
+  - 图片发送
+  - 天使的画笔
